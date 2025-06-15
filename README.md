@@ -30,3 +30,29 @@ To support your learning, the following methods will be used:
 >- Data preprocessing and exploratory data analysis (EDA)
 >- Model implementation and training
 >- Evaluation and reflection
+
+
+## Weekly Topics 
+
+### Week 1 (June 22 - June 28): Intro to Machine Learning and Math Review
+
+
+### Week 2 (June 29 - July 5): Linear Classifier and The Perceptron Algorithm
+
+
+### Week 3 (July 6 - July 12): Logistic Regression and Gradient Descent
+
+
+### Week 4 (July 13 - July 19): Linear Regression 
+
+
+### Week 5 (July 20 - July 26): Models & Cross-Validation 
+
+
+### Week 6 (July 27 - Aug 2): Neural Networks 
+
+
+### Week 7 (Aug 3 - Aug 9): Backprop & Improving Neural Networks 
+
+
+### Week 8 (Aug 10 - Aug 16): Debugging ML Models and Error Analysis 
