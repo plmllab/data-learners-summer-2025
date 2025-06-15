@@ -34,7 +34,7 @@ To support your learning, the following methods will be used:
 
 ## Weekly Topics 
 
-### [Week 1 (Jun 22 - Jun 28): Intro to Machine Learning and Math Review](https://github.com/plmllab/data-learners-summer-2025/Weekly-Topics/Week-1) 
+### [Week 1 (Jun 22 - Jun 28): Intro to Machine Learning and Math Review](https://github.com/plmllab/data-learners-summer-2025/blob/main/Weekly-Topics/Week-1) 
 
 
 ### Week 2 (Jun 29 - Jul 5): Linear Classifier and The Perceptron Algorithm
